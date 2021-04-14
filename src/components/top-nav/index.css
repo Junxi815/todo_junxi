@@ -1,0 +1,10 @@
+.header-nav{
+    height: 45px;
+    background-color: transparent;
+    border: none;
+    display: flex;
+}
+
+.header-nav-item{
+    color: gray;
+}

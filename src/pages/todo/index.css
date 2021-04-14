@@ -1,0 +1,10 @@
+
+.left-input{
+    display: inline-block;
+    width: 30%;
+    margin-right: 3%;
+}
+.right-todolist{
+    display: inline-block;
+    width: 65%;
+}
